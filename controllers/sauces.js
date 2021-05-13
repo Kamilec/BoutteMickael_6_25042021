@@ -112,7 +112,7 @@ exports.like = (req, res, next) => {
         usersLiked: usersLiked,
       }
     )
-      .then(() => { res.status(200).json({ message: 'dsqdsqd' });
+      .then(() => { res.status(200).json({ message: 'Your like has been added !' });
       })
       .catch((error) => { res.status(400).json({ error });
       })

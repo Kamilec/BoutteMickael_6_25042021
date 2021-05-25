@@ -1,3 +1,4 @@
+//Création d'un schéma de données grâce à mongoose avec les propriétés désirées
 const mongoose = require('mongoose');
 
 const sauceSchema = mongoose.Schema({
@@ -15,4 +16,5 @@ const sauceSchema = mongoose.Schema({
   usersDisliked: { type: Array, required: true },
 });
 
+//Exportation en tant que modèle
 module.exports = mongoose.model('Sauce', sauceSchema);

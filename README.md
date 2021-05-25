@@ -40,5 +40,6 @@ via http://localhost:4200/ (ctrl + clic gauche)
     > npm install --save mongoose-unique-validator
     > npm install --save bcrypt
     > npm install -- save jsonwebtoken
- Par le biais des ces commandes, nous protégons nos données et suivons les lignes directrice recommandées par la RGPD et l'OWASP ! La sécurité avant tout !    
+    > npm install --save maskdata
+ Par le biais des ces commandes, nous protégons nos données et suivons les lignes directrices recommandées par la RGPD et l'OWASP ! La sécurité avant tout !    
  

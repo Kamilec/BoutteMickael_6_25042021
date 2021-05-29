@@ -19,7 +19,7 @@ Maintenant que tout est prêt on peut commencer !
 - Depuis le terminal de commande, via le dossier frontend, entrez les commandes : 
     > npm install
     > npm start
-Si le message suivant apparaît **"Compiled successfully"**, l'installation à fonctionnée parfaitement et vous pouvez lancer l'application avec votre navigateur web 
+Si le message suivant apparaît **"Compiled successfully"**, l'installation a fonctionné parfaitement et vous pouvez lancer l'application avec votre navigateur web 
 via http://localhost:4200/ (ctrl + clic gauche)
     > npm init (/!\ à faire dans un terminal différent)
     > git init
